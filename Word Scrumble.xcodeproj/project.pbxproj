@@ -12,6 +12,7 @@
 		D2089F8421AA812900E745F2 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D2089F8221AA812900E745F2 /* Main.storyboard */; };
 		D2089F8621AA812C00E745F2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D2089F8521AA812C00E745F2 /* Assets.xcassets */; };
 		D2089F8921AA812C00E745F2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D2089F8721AA812C00E745F2 /* LaunchScreen.storyboard */; };
+		D2089F9121AA82D500E745F2 /* start.txt in Resources */ = {isa = PBXBuildFile; fileRef = D2089F9021AA82D500E745F2 /* start.txt */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		D2089F8521AA812C00E745F2 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D2089F8821AA812C00E745F2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D2089F8A21AA812C00E745F2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D2089F9021AA82D500E745F2 /* start.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = start.txt; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 		D2089F7D21AA812900E745F2 /* Word Scrumble */ = {
 			isa = PBXGroup;
 			children = (
+				D2089F9021AA82D500E745F2 /* start.txt */,
 				D2089F7E21AA812900E745F2 /* AppDelegate.swift */,
 				D2089F8021AA812900E745F2 /* ViewController.swift */,
 				D2089F8221AA812900E745F2 /* Main.storyboard */,
@@ -123,6 +126,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				D2089F8921AA812C00E745F2 /* LaunchScreen.storyboard in Resources */,
+				D2089F9121AA82D500E745F2 /* start.txt in Resources */,
 				D2089F8621AA812C00E745F2 /* Assets.xcassets in Resources */,
 				D2089F8421AA812900E745F2 /* Main.storyboard in Resources */,
 			);
